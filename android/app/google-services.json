@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093782800333",
+    "project_id": "mbap-project-10e33",
+    "storage_bucket": "mbap-project-10e33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093782800333:android:0c337f566115a84059e684",
+        "android_client_info": {
+          "package_name": "com.example.part2_benjaminpo_2404190g_p06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRfPOjSpKIcgiSHN0v5YJ0QdtstDRz7FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
